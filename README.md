@@ -1,9 +1,17 @@
 # Python
 
 
-Lesson 1 Python
+## Lesson 1
 
-change 2
+## Lesson 2
 
 
-change3
+
+
+
+
+## Task 6 : String and Dictionaries
+
+String data type is fundamental for Python.
+Strings are defined as an array of characters. 
+This task requires basic understanding of manipulation of string and understanding dictionary data types.
