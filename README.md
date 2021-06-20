@@ -1,12 +1,13 @@
 # Python
 
 
-## Lesson 1
+## Task 1
 
-## Lesson 2
+Describe what you learn in 1st task, some examples.
 
+## Task 2
 
-
+Describe what you learn in 1st task, some examples.
 
 
 
